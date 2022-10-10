@@ -1,2 +1,2 @@
-# cosmos-dapps
-cosmos sdk dapps practice repo
+# Cosmos-SDK-Apps
+files per la pratica di cosmos sdk
